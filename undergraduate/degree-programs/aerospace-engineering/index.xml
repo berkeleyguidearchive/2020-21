@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Aerospace Engineering</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<p><span>To declare your intention to pursue the Aerospace Minor, please use your Berkeley email address/calnet ID and fill out the following </span><a href="https://docs.google.com/forms/d/e/1FAIpQLSc5GQhRPAoxKuc0rm2_Dylp1hlPl3P84Pt78lYL6NL_2SdWoQ/viewform?usp=sf_link">application to declare</a><span> form.</span></p>
+<p>Non-Mechanical Engineering major students can declare their intention to complete the minor after completing prerequisite courses <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span> Introduction to Solid Mechanics</span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span> Fluid Mechanics</span>, and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 132">MEC ENG 132</span> Dynamic Systems and Feedback</span>. Mechanical Engineering majors are allowed to overlap prerequisite courses. Students must have a minimum overall grade-point average of 3.0, as well as a minimum grade-point average of 3.0 in the prerequisite courses, in order to be admitted to the minor program.</p>
+<div><br/>
+ </div>
+]]>
+</abouttheprogramtext>
+<newitemtext name="Minor Requirements">
+<![CDATA[
+<p>Students can receive an aerospace minor by successfully completing the following courses:</p>
+<p><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 127">MEC ENG 127</span> Introduction to Composite Materials</span><br/>
+<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 136">MEC ENG 136</span> Introduction to Control of Unmanned Aerial Vehicles</span><br/>
+<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 163">MEC ENG 163</span> Engineering Aerodynamics</span> </p>
+<p>and their respective prerequisites:</p>
+<p><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span> Introduction to Solid Mechanics</span><br/>
+<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span> Fluid Mechanics</span><br/>
+<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 132">MEC ENG 132</span> Dynamic Systems and Feedback</span> </p>
+<p><span>Non-Mechanical Engineering majors can declare their intention to complete the minor after completing prerequisite courses <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span></span>, and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 132">MEC ENG 132</span></span>. Mechanical Engineering majors are allowed to overlap prerequisite courses. </span></p>
+<p><span>Students must have a minimum overall grade-point average of 3.0, as well as a minimum grade-point average of 3.0 in the prerequisite courses, in order to be admitted to the minor program. </span><span>Students outside of the Mechanical Engineering major must take all 6 courses (the pre-requisite courses and the minor courses) to complete the minor. Students must have a minimum of 2.00 grade-point average in the minor courses at graduation. Completion of the minor cannot delay graduation.</span></p>
+]]>
+</newitemtext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+
